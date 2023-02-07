@@ -11,5 +11,5 @@ console.log("before calling shobhit");
 const a = shobhit()
 console.log("after calling shobhit");
 console.log(a)
-a.then(data => console.log(data));
+a.then(data => console.log(data)); // through then we 
 console.log("last line of js");
