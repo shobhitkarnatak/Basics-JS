@@ -1,37 +1,40 @@
-<!-- @format -->
-<!-- Covering all the concept of Basic to Mastery Javascript -->
-
 # Basics-JS Concepts
 
-1. Closures
-2. Currying
-3. Pure Functions
-4. Hoisting
-5. Strict Mode
-6. Compound/Composition Functions
-7. Mutable/Immutable
-8. Map/Reduce/Filter
-9. Higher Order Functions
-10. Observables
-11. Async/Await/Defer
-12. Promises
-13. Event Loop
-14. Execution Context
-15. Callback
-16. Data Types (Primitive/Non Primitive)
-17. Variable Scope (Global/Local)
-18. Variable(Var/Const/Let)
-19. Call/Apply/Bind Methods
-20. setTimeOut/SetInterval
-21. Sync/Async
-22. Debounce/Throttling
-23. Map/Filter/Reduce/Foreach
-24. Prototype, Prototype inheritance
-25. JS engine architecture
-26. Event bubbling & capturing
-27. call()/ apply()/ bind()
-28. First class functions
-29. Event delegation
-
-
-<!-- Programs -->
+Closures
+Currying
+Pure, Impure function
+Hoisting
+Strict Mode
+Compound,Composition function
+Mutable,Immutable
+Map, Reduce, Filter, foreach
+First order function
+Higher order function
+Unary functions
+First class function
+Observables
+Async, Await, Defer
+Temporal dead zone
+Immediately Invoked Function Expression (IIFE)
+Promises
+Event Loop
+Execution Context
+Callback function
+Data Types (Primitive, Non-primitive)
+Variable Scope (Global, Local)
+Variable(Var, Const, Let)
+Call, Apply, Bind Methods
+setTimeOut, SetInterval
+Sync, Async
+Debounce,Throttling
+Prototype, Prototype inheritance
+JS engine architecture
+Event bubbling & capturing
+Event delegation
+Service worker
+Web workers
+PWA
+Freeze, Seal method
+Spread operator
+Rest parameters
+Weakset, set

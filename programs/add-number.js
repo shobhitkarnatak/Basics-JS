@@ -1,7 +1,5 @@
 const sum = (a, b) => {
-    return a + b;
+  return a + b;
+};
 
-}
-
-sum(2,4) //6
-
+sum(2, 4); //6
